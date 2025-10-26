@@ -51,13 +51,6 @@
 
 ---
 
-### 🐍 Commit Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ftryhrd/ftryhrd/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 📬 Connect With Me
 <p align="center">
   <a href="mailto:afurqonm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -67,4 +60,4 @@
 
 ---
 
-⭐ ""
+⭐ "Code is like humor. When you have to explain it, it’s bad."
