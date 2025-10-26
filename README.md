@@ -30,6 +30,16 @@
 
 ---
 
+### 🌐 Visit My Portfolio
+<p align="center">
+  <a href="https://lovepai.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-🌐 View%20My%20Portfolio-blueviolet?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
 ### 🏆 Stats & Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ftryhrd&show_icons=true&theme=tokyonight&count_private=true" height="165" />
@@ -46,7 +56,7 @@
 | 🚀 Project | 💡 Description | 🔗 Link |
 |-------------|----------------|---------|
 | 🤖 **AI-Powered Telegram Bot** | Smart auto-reply bot using Python & OpenAI API | [View Repo](#) |
-| 🌐 **Portfolio Website** | Modern responsive personal site | [View Repo](lovepai.vercel.id) |
+| 🌐 **Portfolio Website** | Modern responsive personal site | [View Repo](https://lovepai.vercel.app) |
 | ⚙️ **Discord Utility Bot** | Multi-purpose automation bot for servers | [View Repo](#) |
 
 ---
