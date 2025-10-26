@@ -46,7 +46,7 @@
 | 🚀 Project | 💡 Description | 🔗 Link |
 |-------------|----------------|---------|
 | 🤖 **AI-Powered Telegram Bot** | Smart auto-reply bot using Python & OpenAI API | [View Repo](#) |
-| 🌐 **Portfolio Website** | Modern responsive personal site | [View Repo](#) |
+| 🌐 **Portfolio Website** | Modern responsive personal site | [View Repo](lovepai.vercel.id) |
 | ⚙️ **Discord Utility Bot** | Multi-purpose automation bot for servers | [View Repo](#) |
 
 ---
